@@ -14,4 +14,5 @@ const systemSummary: string = `
 `;
 
 console.log(systemSummary);
+console.log(isSystemActive)
 
